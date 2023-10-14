@@ -1,2 +1,2 @@
-# ncov_data
+# Covid19 Tracking APP
 
